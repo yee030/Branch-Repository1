@@ -1,4 +1,4 @@
-// C program for Merge Sort
+인공지능공학과
 #include <stdio.h>
 #include <stdlib.h>
 
